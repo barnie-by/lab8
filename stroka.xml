@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<java version="13.0.1" class="java.beans.XMLDecoder">
+ <object class="main.Str">
+  <void property="stroka1">
+   <string>Heyy</string>
+  </void>
+  <void property="stroka2">
+   <string>hai</string>
+  </void>
+  <void property="stroka3">
+   <string>hey</string>
+  </void>
+  <void property="stroka4">
+   <string>Hello</string>
+  </void>
+ </object>
+</java>
